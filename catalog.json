@@ -8449,6 +8449,432 @@
       "group": "geosite",
       "id": "zynga",
       "count": 3
+    },
+    {
+      "group": "services",
+      "id": "twitch",
+      "name": "Twitch",
+      "count": 32
+    },
+    {
+      "group": "services",
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "count": 19
+    },
+    {
+      "group": "services",
+      "id": "claude",
+      "name": "Claude",
+      "count": 7
+    },
+    {
+      "group": "services",
+      "id": "deviantart",
+      "name": "DeviantArt",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "itch-io",
+      "name": "itch.io",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "lichess",
+      "name": "Lichess",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "meta-quest",
+      "name": "Meta Quest",
+      "count": 17
+    },
+    {
+      "group": "services",
+      "id": "geometry-dash",
+      "name": "Geometry Dash",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "tiktok",
+      "name": "TikTok",
+      "count": 37
+    },
+    {
+      "group": "services",
+      "id": "roblox",
+      "name": "Roblox",
+      "count": 48
+    },
+    {
+      "group": "services",
+      "id": "chess-com",
+      "name": "Chess.com",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "gemini",
+      "name": "Gemini",
+      "count": 36
+    },
+    {
+      "group": "services",
+      "id": "soundcloud",
+      "name": "SoundCloud",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "cursor",
+      "name": "Cursor",
+      "count": 4
+    },
+    {
+      "group": "services",
+      "id": "deepl",
+      "name": "DeepL",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "twitter",
+      "name": "Twitter",
+      "count": 45
+    },
+    {
+      "group": "services",
+      "id": "facebook",
+      "name": "Facebook",
+      "count": 506
+    },
+    {
+      "group": "services",
+      "id": "2ip-io",
+      "name": "2ip.io",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "antigravity",
+      "name": "Antigravity",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "linear",
+      "name": "Linear",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "medal",
+      "name": "Medal",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "7tv",
+      "name": "7TV",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "patreon",
+      "name": "Patreon",
+      "count": 4
+    },
+    {
+      "group": "services",
+      "id": "instagram",
+      "name": "Instagram",
+      "count": 74
+    },
+    {
+      "group": "services",
+      "id": "cloudflare",
+      "name": "CloudFlare",
+      "count": 975
+    },
+    {
+      "group": "services",
+      "id": "telegram",
+      "name": "Telegram",
+      "count": 32
+    },
+    {
+      "group": "services",
+      "id": "notion",
+      "name": "Notion",
+      "count": 6
+    },
+    {
+      "group": "services",
+      "id": "spotify",
+      "name": "Spotify",
+      "count": 26
+    },
+    {
+      "group": "services",
+      "id": "grok",
+      "name": "Grok",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "pokecut",
+      "name": "Pokecut",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "count": 13
+    },
+    {
+      "group": "services",
+      "id": "discord",
+      "name": "Discord",
+      "count": 34
+    },
+    {
+      "group": "services",
+      "id": "obs-studio",
+      "name": "OBS Studio",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "tracker-gg",
+      "name": "tracker.gg",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "osu",
+      "name": "osu!",
+      "count": 9
+    },
+    {
+      "group": "services",
+      "id": "animelib",
+      "name": "AnimeLib",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "adobe",
+      "name": "Adobe",
+      "count": 264
+    },
+    {
+      "group": "services",
+      "id": "tumblr",
+      "name": "Tumblr",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "minecraft",
+      "name": "Minecraft",
+      "count": 6
+    },
+    {
+      "group": "services",
+      "id": "virustotal",
+      "name": "VirusTotal",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "substack",
+      "name": "Substack",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "teamspeak",
+      "name": "TeamSpeak",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "midjourney",
+      "name": "Midjourney",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "leetify",
+      "name": "Leetify",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "grailed",
+      "name": "Grailed",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "gowo",
+      "name": "Gowo",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "onlinegdb",
+      "name": "OnlineGDB",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "etsy",
+      "name": "Etsy",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "csrep-gg",
+      "name": "csrep.gg",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "shikimori",
+      "name": "Shikimori",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "grammarly",
+      "name": "Grammarly",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "vmeg-ai",
+      "name": "Vmeg.ai",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "game-jolt",
+      "name": "Game Jolt",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "ficbook",
+      "name": "Ficbook",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "donationalerts",
+      "name": "DonationAlerts",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "clickup",
+      "name": "ClickUp",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "cftools-cloud",
+      "name": "CFTools Cloud",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "canva",
+      "name": "Canva",
+      "count": 6
+    },
+    {
+      "group": "services",
+      "id": "archive-of-our-own",
+      "name": "Archive of Our Own",
+      "count": 4
+    },
+    {
+      "group": "services",
+      "id": "2k-games",
+      "name": "2K Games",
+      "count": 6
+    },
+    {
+      "group": "services",
+      "id": "jut-su",
+      "name": "Jut.su",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "modrinth",
+      "name": "Modrinth",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "miro",
+      "name": "Miro",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "overwolf",
+      "name": "Overwolf",
+      "count": 1
+    },
+    {
+      "group": "services",
+      "id": "pixiv",
+      "name": "Pixiv",
+      "count": 11
+    },
+    {
+      "group": "services",
+      "id": "rave",
+      "name": "Rave",
+      "count": 2
+    },
+    {
+      "group": "services",
+      "id": "steam",
+      "name": "Steam",
+      "count": 54
+    },
+    {
+      "group": "services",
+      "id": "youtube",
+      "name": "YouTube",
+      "count": 178
+    },
+    {
+      "group": "services",
+      "id": "figma",
+      "name": "Figma",
+      "count": 3
+    },
+    {
+      "group": "services",
+      "id": "pinterest",
+      "name": "Pinterest",
+      "count": 52
     }
   ]
 }

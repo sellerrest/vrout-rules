@@ -1,0 +1,809 @@
+{
+  "twitch": {
+    "name": "Twitch",
+    "count": 32,
+    "observedDnsSelectors": [
+      "geosite:twitch"
+    ],
+    "geosite": [
+      "twitch"
+    ],
+    "geoip": [],
+    "iconGeoSite": "twitch"
+  },
+  "chatgpt": {
+    "name": "ChatGPT",
+    "count": 19,
+    "observedDnsSelectors": [
+      "geosite:openai"
+    ],
+    "geosite": [
+      "openai"
+    ],
+    "geoip": [],
+    "iconGeoSite": "openai"
+  },
+  "claude": {
+    "name": "Claude",
+    "count": 7,
+    "observedDnsSelectors": [
+      "geosite:anthropic"
+    ],
+    "geosite": [
+      "anthropic"
+    ],
+    "geoip": [],
+    "iconGeoSite": "anthropic"
+  },
+  "deviantart": {
+    "name": "DeviantArt",
+    "count": 3,
+    "observedDnsSelectors": [
+      "geosite:deviantart"
+    ],
+    "geosite": [
+      "deviantart"
+    ],
+    "geoip": [],
+    "iconSource": "https://deviantart.com/favicon.ico"
+  },
+  "itch-io": {
+    "name": "itch.io",
+    "count": 2,
+    "observedDnsSelectors": [
+      "geosite:itchio"
+    ],
+    "geosite": [
+      "itchio"
+    ],
+    "geoip": [],
+    "iconSource": "https://itch.io/favicon.ico"
+  },
+  "lichess": {
+    "name": "Lichess",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:lichess.org",
+      "domain:lichess1.org"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://lichess.org/favicon.ico"
+  },
+  "meta-quest": {
+    "name": "Meta Quest",
+    "count": 17,
+    "observedDnsSelectors": [
+      "geosite:oculus"
+    ],
+    "geosite": [
+      "oculus"
+    ],
+    "geoip": []
+  },
+  "geometry-dash": {
+    "name": "Geometry Dash",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:boomlings.com",
+      "domain:robtopgames.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://robtopgames.com/favicon.ico"
+  },
+  "tiktok": {
+    "name": "TikTok",
+    "count": 37,
+    "observedDnsSelectors": [
+      "geosite:tiktok"
+    ],
+    "geosite": [
+      "tiktok"
+    ],
+    "geoip": [],
+    "iconGeoSite": "tiktok"
+  },
+  "roblox": {
+    "name": "Roblox",
+    "count": 48,
+    "observedDnsSelectors": [
+      "geosite:roblox",
+      "domain:roblox.com",
+      "domain:rbxcdn.com"
+    ],
+    "geosite": [
+      "roblox"
+    ],
+    "geoip": [],
+    "iconGeoSite": "roblox"
+  },
+  "chess-com": {
+    "name": "Chess.com",
+    "count": 2,
+    "observedDnsSelectors": [
+      "chess.com",
+      "full:cdn.cookielaw.org"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.chess.com/favicon.ico"
+  },
+  "gemini": {
+    "name": "Gemini",
+    "count": 36,
+    "observedDnsSelectors": [
+      "geosite:google-deepmind"
+    ],
+    "geosite": [
+      "google-deepmind"
+    ],
+    "geoip": [],
+    "iconGeoSite": "google-deepmind"
+  },
+  "soundcloud": {
+    "name": "SoundCloud",
+    "count": 3,
+    "observedDnsSelectors": [
+      "geosite:soundcloud"
+    ],
+    "geosite": [
+      "soundcloud"
+    ],
+    "geoip": [],
+    "iconGeoSite": "soundcloud"
+  },
+  "cursor": {
+    "name": "Cursor",
+    "count": 4,
+    "observedDnsSelectors": [
+      "geosite:cursor"
+    ],
+    "geosite": [
+      "cursor"
+    ],
+    "geoip": [],
+    "iconSource": "https://cursor.com/favicon.ico"
+  },
+  "deepl": {
+    "name": "DeepL",
+    "count": 2,
+    "observedDnsSelectors": [
+      "geosite:linguee"
+    ],
+    "geosite": [
+      "linguee"
+    ],
+    "geoip": [],
+    "iconSource": "https://www.deepl.com/favicon.ico"
+  },
+  "twitter": {
+    "name": "Twitter",
+    "count": 45,
+    "observedDnsSelectors": [
+      "geosite:twitter"
+    ],
+    "geosite": [
+      "twitter"
+    ],
+    "geoip": [
+      "twitter"
+    ],
+    "iconGeoSite": "twitter"
+  },
+  "facebook": {
+    "name": "Facebook",
+    "count": 506,
+    "observedDnsSelectors": [
+      "geosite:facebook"
+    ],
+    "geosite": [
+      "facebook"
+    ],
+    "geoip": [
+      "facebook"
+    ],
+    "iconGeoSite": "facebook"
+  },
+  "2ip-io": {
+    "name": "2ip.io",
+    "count": 1,
+    "observedDnsSelectors": [
+      "2ip.io"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://2ip.io/favicon.ico"
+  },
+  "antigravity": {
+    "name": "Antigravity",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:antigravity.google",
+      "keyword:antigravity"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://antigravity.google/favicon.ico"
+  },
+  "linear": {
+    "name": "Linear",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:linear.app"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://linear.app/favicon.ico"
+  },
+  "medal": {
+    "name": "Medal",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:medal.tv"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://medal.tv/favicon.ico"
+  },
+  "7tv": {
+    "name": "7TV",
+    "count": 2,
+    "observedDnsSelectors": [
+      "geosite:7tv"
+    ],
+    "geosite": [
+      "7tv"
+    ],
+    "geoip": []
+  },
+  "patreon": {
+    "name": "Patreon",
+    "count": 4,
+    "observedDnsSelectors": [
+      "geosite:patreon"
+    ],
+    "geosite": [
+      "patreon"
+    ],
+    "geoip": [],
+    "iconGeoSite": "patreon"
+  },
+  "instagram": {
+    "name": "Instagram",
+    "count": 74,
+    "observedDnsSelectors": [
+      "geosite:instagram"
+    ],
+    "geosite": [
+      "instagram"
+    ],
+    "geoip": [],
+    "iconGeoSite": "instagram"
+  },
+  "cloudflare": {
+    "name": "CloudFlare",
+    "count": 975,
+    "observedDnsSelectors": [],
+    "geosite": [
+      "cloudflare"
+    ],
+    "geoip": [
+      "cloudflare"
+    ],
+    "iconGeoSite": "cloudflare"
+  },
+  "telegram": {
+    "name": "Telegram",
+    "count": 32,
+    "observedDnsSelectors": [
+      "geosite:telegram"
+    ],
+    "geosite": [
+      "telegram"
+    ],
+    "geoip": [
+      "telegram"
+    ],
+    "iconGeoSite": "telegram"
+  },
+  "notion": {
+    "name": "Notion",
+    "count": 6,
+    "observedDnsSelectors": [
+      "geosite:notion"
+    ],
+    "geosite": [
+      "notion"
+    ],
+    "geoip": []
+  },
+  "spotify": {
+    "name": "Spotify",
+    "count": 26,
+    "observedDnsSelectors": [
+      "geosite:spotify"
+    ],
+    "geosite": [
+      "spotify"
+    ],
+    "geoip": []
+  },
+  "grok": {
+    "name": "Grok",
+    "count": 3,
+    "observedDnsSelectors": [
+      "geosite:xai"
+    ],
+    "geosite": [
+      "xai"
+    ],
+    "geoip": [],
+    "iconSource": "https://grok.com/images/android-chrome-512x512.png"
+  },
+  "pokecut": {
+    "name": "Pokecut",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:pokecut.com",
+      "domain:frigidpine.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.pokecut.com/favicon.ico"
+  },
+  "whatsapp": {
+    "name": "WhatsApp",
+    "count": 13,
+    "observedDnsSelectors": [
+      "geosite:whatsapp"
+    ],
+    "geosite": [
+      "whatsapp"
+    ],
+    "geoip": []
+  },
+  "discord": {
+    "name": "Discord",
+    "count": 34,
+    "observedDnsSelectors": [
+      "geosite:discord",
+      "full:media.discordapp.net",
+      "full:updates.discord.com",
+      "full:cdn.discordapp.com",
+      "full:gateway.discord.gg",
+      "full:discord.com",
+      "full:stable.dl2.discordapp.net"
+    ],
+    "geosite": [
+      "discord"
+    ],
+    "geoip": [],
+    "iconGeoSite": "discord"
+  },
+  "obs-studio": {
+    "name": "OBS Studio",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:obsproject.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://obsproject.com/favicon.ico"
+  },
+  "tracker-gg": {
+    "name": "tracker.gg",
+    "count": 3,
+    "observedDnsSelectors": [
+      "geosite:trackernetwork"
+    ],
+    "geosite": [
+      "trackernetwork"
+    ],
+    "geoip": [],
+    "iconSource": "https://trackercdn.com/cdn/tracker.gg/tile-192.png"
+  },
+  "osu": {
+    "name": "osu!",
+    "count": 9,
+    "observedDnsSelectors": [
+      "geosite:osu"
+    ],
+    "geosite": [
+      "osu"
+    ],
+    "geoip": [],
+    "iconSource": "https://osu.ppy.sh/favicon.ico"
+  },
+  "animelib": {
+    "name": "AnimeLib",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:anilib.me",
+      "domain:hentaicdn.org"
+    ],
+    "geosite": [],
+    "geoip": []
+  },
+  "adobe": {
+    "name": "Adobe",
+    "count": 264,
+    "observedDnsSelectors": [
+      "geosite:adobe"
+    ],
+    "geosite": [
+      "adobe"
+    ],
+    "geoip": [],
+    "iconGeoSite": "adobe"
+  },
+  "tumblr": {
+    "name": "Tumblr",
+    "count": 1,
+    "observedDnsSelectors": [
+      "geosite:tumblr"
+    ],
+    "geosite": [
+      "tumblr"
+    ],
+    "geoip": [],
+    "iconSource": "https://www.tumblr.com/favicon.ico"
+  },
+  "minecraft": {
+    "name": "Minecraft",
+    "count": 6,
+    "observedDnsSelectors": [
+      "geosite:mojang"
+    ],
+    "geosite": [
+      "mojang"
+    ],
+    "geoip": [],
+    "iconSource": "https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico"
+  },
+  "virustotal": {
+    "name": "VirusTotal",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:virustotal.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://virustotal.com/favicon.ico"
+  },
+  "substack": {
+    "name": "Substack",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:substack.com",
+      "domain:substackcdn.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://substackcdn.com/icons/substack/favicon.ico"
+  },
+  "teamspeak": {
+    "name": "TeamSpeak",
+    "count": 3,
+    "observedDnsSelectors": [
+      "domain:teamspeak.com",
+      "domain:myteamspeak.com",
+      "domain:teamspeak-services.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://teamspeak.com/user/themes/teamspeak/images/favicon.png"
+  },
+  "midjourney": {
+    "name": "Midjourney",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:midjourney.com"
+    ],
+    "geosite": [],
+    "geoip": []
+  },
+  "leetify": {
+    "name": "Leetify",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:leetify.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://leetify.com/favicon.ico"
+  },
+  "grailed": {
+    "name": "Grailed",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:grailed.com"
+    ],
+    "geosite": [],
+    "geoip": []
+  },
+  "gowo": {
+    "name": "Gowo",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:gowo.io"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://gowo.io/favicon.ico"
+  },
+  "onlinegdb": {
+    "name": "OnlineGDB",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:onlinegdb.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.onlinegdb.com/favicon.ico"
+  },
+  "elevenlabs": {
+    "name": "ElevenLabs",
+    "count": 2,
+    "observedDnsSelectors": [
+      "geosite:elevenlabs"
+    ],
+    "geosite": [
+      "elevenlabs"
+    ],
+    "geoip": [],
+    "iconSource": "https://elevenlabs.io/favicon.ico"
+  },
+  "etsy": {
+    "name": "Etsy",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:etsy.com",
+      "domain:etsystatic.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.etsy.com/favicon.ico"
+  },
+  "csrep-gg": {
+    "name": "csrep.gg",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:csrep.gg"
+    ],
+    "geosite": [],
+    "geoip": []
+  },
+  "shikimori": {
+    "name": "Shikimori",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:shikimori.io"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://shikimori.io/favicon.ico"
+  },
+  "grammarly": {
+    "name": "Grammarly",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:grammarly.com",
+      "domain:grammarly.io"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://static-web.grammarly.com/cms/master/public/favicon.ico"
+  },
+  "vmeg-ai": {
+    "name": "Vmeg.ai",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:vmeg.ai"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.vmeg.ai/favicon.ico"
+  },
+  "game-jolt": {
+    "name": "Game Jolt",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:gamejolt.com",
+      "domain:gjcdn.net"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://s.gjcdn.net/img/favicon.png"
+  },
+  "ficbook": {
+    "name": "Ficbook",
+    "count": 1,
+    "observedDnsSelectors": [
+      "geosite:ficbook"
+    ],
+    "geosite": [
+      "ficbook"
+    ],
+    "geoip": [],
+    "iconSource": "https://ficbook.net/favicon.ico"
+  },
+  "donationalerts": {
+    "name": "DonationAlerts",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:donationalerts.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.donationalerts.com/favicon.ico"
+  },
+  "clickup": {
+    "name": "ClickUp",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:clickup.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://clickup.com/favicon.ico"
+  },
+  "cftools-cloud": {
+    "name": "CFTools Cloud",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:cftools.cloud"
+    ],
+    "geosite": [],
+    "geoip": []
+  },
+  "canva": {
+    "name": "Canva",
+    "count": 6,
+    "observedDnsSelectors": [
+      "geosite:canva"
+    ],
+    "geosite": [
+      "canva"
+    ],
+    "geoip": [],
+    "iconGeoSite": "canva"
+  },
+  "archive-of-our-own": {
+    "name": "Archive of Our Own",
+    "count": 4,
+    "observedDnsSelectors": [
+      "geosite:archiveofourown"
+    ],
+    "geosite": [
+      "archiveofourown"
+    ],
+    "geoip": []
+  },
+  "2k-games": {
+    "name": "2K Games",
+    "count": 6,
+    "observedDnsSelectors": [
+      "geosite:2kgames"
+    ],
+    "geosite": [
+      "2kgames"
+    ],
+    "geoip": [],
+    "iconSource": "https://assets.2k.com/1a6ngf98576c/6kwxRrfZJukhNb1IVQQ1ej/6cadad09ca1cb84e5c2e138851387cc7/favicon-96x96.png"
+  },
+  "jut-su": {
+    "name": "Jut.su",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:jut.su"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://jut.su/favicon.ico"
+  },
+  "modrinth": {
+    "name": "Modrinth",
+    "count": 1,
+    "observedDnsSelectors": [
+      "geosite:modrinth"
+    ],
+    "geosite": [
+      "modrinth"
+    ],
+    "geoip": [],
+    "iconSource": "https://modrinth.com/favicon.ico"
+  },
+  "miro": {
+    "name": "Miro",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:miro.com",
+      "domain:mirostatic.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://miro.com/favicon.ico"
+  },
+  "overwolf": {
+    "name": "Overwolf",
+    "count": 1,
+    "observedDnsSelectors": [
+      "domain:overwolf.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://www.overwolf.com/favicon.ico"
+  },
+  "pixiv": {
+    "name": "Pixiv",
+    "count": 11,
+    "observedDnsSelectors": [
+      "geosite:pixiv"
+    ],
+    "geosite": [
+      "pixiv"
+    ],
+    "geoip": [],
+    "iconSource": "https://www.pixiv.net/favicon.ico"
+  },
+  "rave": {
+    "name": "Rave",
+    "count": 2,
+    "observedDnsSelectors": [
+      "domain:rave.io",
+      "domain:saverave.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconSource": "https://rave.io/img/android-icon-192x192.png"
+  },
+  "steam": {
+    "name": "Steam",
+    "count": 54,
+    "observedDnsSelectors": [
+      "geosite:steam"
+    ],
+    "geosite": [
+      "steam"
+    ],
+    "geoip": [],
+    "iconGeoSite": "steam"
+  },
+  "youtube": {
+    "name": "YouTube",
+    "count": 178,
+    "observedDnsSelectors": [
+      "geosite:youtube"
+    ],
+    "geosite": [
+      "youtube"
+    ],
+    "geoip": [],
+    "iconGeoSite": "youtube"
+  },
+  "figma": {
+    "name": "Figma",
+    "count": 3,
+    "observedDnsSelectors": [
+      "figma.com",
+      "www.figma.com",
+      "static.figma.com"
+    ],
+    "geosite": [],
+    "geoip": [],
+    "iconGeoSite": "figma"
+  },
+  "pinterest": {
+    "name": "Pinterest",
+    "count": 52,
+    "observedDnsSelectors": [
+      "geosite:pinterest"
+    ],
+    "geosite": [
+      "pinterest"
+    ],
+    "geoip": [],
+    "iconGeoSite": "pinterest"
+  }
+}
