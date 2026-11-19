@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discord.gift
+  - PROCESS-NAME,Discord.exe
+  - PROCESS-NAME,DiscordCanary.exe
+  - PROCESS-NAME,DiscordPTB.exe
+  - PROCESS-NAME,DiscordDevelopment.exe
